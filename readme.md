@@ -78,3 +78,7 @@ Medium: https://medium.com/asecuritysite-when-bob-met-alice/ascon-is-a-light-wei
 Online: https://asecuritysite.com/light/lw_ascon
 
 https://replit.com/@javacrypto/AsconEncryptionWithJava#Main.java
+
+## License
+
+Ascon Encryption is available under the MIT license. See the LICENSE.md file for more info.
